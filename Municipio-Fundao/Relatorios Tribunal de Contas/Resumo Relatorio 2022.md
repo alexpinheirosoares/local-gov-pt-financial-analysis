@@ -1,0 +1,18 @@
+O Tribunal de Contas concluiu que o Município do Fundão não aplicou, entre 2014 e 2018, a maior parte das medidas previstas nos planos de ajustamento financeiro das Autarquias Locais ou que as mesmas não geraram o efeito previsto.
+
+A auditoria, cujo relatório foi hoje divulgado, analisa a implementação e execução de mecanismos de reequilíbrio orçamental, reestruturação da dívida e assistência financeira, pelo Município do Fundão (MF), desde 2014. 
+
+O MF, que ainda consta da lista dos municípios mais endividados, recorreu a vários programas de ajuda financeira, sendo os mais recentes o Programa de Apoio à Economia Local (PAEL) e Saneamento Financeiro (2013) e o PAM (Plano de Ajustamento Municipal) (2018). Como contrapartida dos empréstimos de 2013, comprometeu-se a executar um Plano de Ajustamento e Saneamento Financeiro (PASF), que incluía medidas de redução da despesa, de aumento da receita e outras passíveis de melhorar a gestão municipal e gerar ganhos de eficiência. 
+
+O Tribunal de Contas verificou que não foi conseguida a contenção da despesa, sendo a execução 10,9% acima do inscrito no PASF, nem foram adotadas as medidas que visavam aumentar a receita própria, ainda que a receita total tenha sido superior, suportada essencialmente nas transferências provenientes do Orçamento do Estado. Evidenciaram-se também falhas na reestruturação e reorganização de serviços e procedimentos e na implementação de procedimentos de monitorização e controlo.
+
+Os empréstimos foram aprovados e submetidos a visto do Tribunal de Contas para pagamento de um conjunto específico de faturas, mas constatou-se que uma parte já havia sido paga aquando do recebimento das respetivas tranches. O MF não pagou, em 2013, faturas referentes ao saneamento financeiro, tendo pago uma parte posteriormente, outra encontrava-se ainda em dívida em 2018, e outra desreconhecida. Desta forma, além de não utilizar o montante dos empréstimos no seu fim legal e contratual, o MF aumentou a liquidez e reduziu a dívida refletida nas contas.
+
+Em 2017, o MF suspendeu o pagamento do serviço da dívida do PAEL (os atrasos nos pagamentos programados remontavam a 2015) e pediu a adesão ao FAM, ficando evidente a ineficácia dos mecanismos previstos em caso de incumprimento. A adesão ao FAM permitiu ao MF liquidar os empréstimos do PASF (incluindo o serviço da dívida não pago em 2017 e 2018) e manter um nível elevado de despesa.
+
+O recurso ao FAM é consequência de falhas na conceção, execução e monitorização do PASF, que não constituiu um instrumento eficaz de recuperação financeira, e de uma gestão municipal que não implementou o essencial das medidas que havia aprovado e que dependiam da sua ação. O prazo bastante superior (até 30 anos), ainda que conjugado com uma taxa de juro mais favorável (1,75%), irá comportar um custo final mais elevado, perspetivando-se impactos em termos de equidade intergeracional.
+
+O MF deverá garantir que os recursos financeiros obtidos ao abrigo de programas de ajustamento e apoio financeiro são utilizados de acordo com o definido na lei e nos contratos e que as práticas contabilísticas asseguram a existência de informação fidedigna. Deve também proceder a uma efetiva implementação das respetivas medidas e a uma adequada monitorização da execução, promovendo medidas corretivas, quando se verifiquem desfasamentos negativos na tendência de ajustamento.
+
+
+[Relatório de Auditoria à execução de planos de ajustamento financeiro de Autarquias Locais - Município do Fundão](https://www.tcontas.pt/pt-pt/ProdutosTC/Relatorios/RelatoriosAuditoria/Documents/2022/rel001-2022-2s.pdf)
